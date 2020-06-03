@@ -1,4 +1,4 @@
-#Argus Message Notifier
+# Argus Message Notifier
 Copyrightg (C) 2020 Beqa Gozalishvili
 
 Notifies about unread messages from argus iliauni portal in telegram.
